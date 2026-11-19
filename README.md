@@ -1,4 +1,4 @@
-# learn-coding-playground-2026-27-
+# learn-coding-playground-2026-27
 
 ## Learn with data challenges
 
@@ -6,7 +6,7 @@
 
 ![](./imgs/spectator.png)
 
-Get fresh data from [data.spectator.co.uk/migration](https://data.spectator.co.uk/migration){target="_blank"}
+Get fresh data from [data.spectator.co.uk/migration](https://data.spectator.co.uk/migration)
 
 Compute some interesting value, e.g.,
 
